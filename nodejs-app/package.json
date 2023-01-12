@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Hello World App",
   "main": "server.js",
+  "scripts": "npm start",
   "author": "Red Hat Training",
   "license": "ASL",
   "dependencies": {
